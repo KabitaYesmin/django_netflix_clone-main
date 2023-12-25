@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="django-lms-main" />
+    <orderEntry type="module" module-name="FoodBankModel" />
+    <orderEntry type="module" module-name="CrazySite" />
+    <orderEntry type="module" module-name="django-vuejs" />
+    <orderEntry type="module" module-name="Download Folder" />
+    <orderEntry type="module" module-name="django-reactjs" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>

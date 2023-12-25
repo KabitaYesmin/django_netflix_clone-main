@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/CrazySite/.idea/CrazySite.iml" filepath="$USER_HOME$/PycharmProjects/CrazySite/.idea/CrazySite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Download Folder/.idea/Download Folder.iml" filepath="$PROJECT_DIR$/../Download Folder/.idea/Download Folder.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/FoodBankModel/.idea/FoodBankModel.iml" filepath="$USER_HOME$/PycharmProjects/FoodBankModel/.idea/FoodBankModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Download Folder/django-lms-main/.idea/django-lms-main.iml" filepath="$PROJECT_DIR$/../Download Folder/django-lms-main/.idea/django-lms-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Download Folder/django-reactjs/.idea/django-reactjs.iml" filepath="$PROJECT_DIR$/../Download Folder/django-reactjs/.idea/django-reactjs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Download Folder/django-vuejs/.idea/django-vuejs.iml" filepath="$PROJECT_DIR$/../Download Folder/django-vuejs/.idea/django-vuejs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/django_netflix_clone-main.iml" filepath="$PROJECT_DIR$/.idea/django_netflix_clone-main.iml" />
+    </modules>
+  </component>
+</project>
